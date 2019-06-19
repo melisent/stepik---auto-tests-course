@@ -1,2 +1,2 @@
 # stepik---auto-tests-course
-Lenechka pupsik
+Спасибо за внимание!
