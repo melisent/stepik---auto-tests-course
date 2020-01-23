@@ -1,2 +1,2 @@
 # stepik---auto-tests-course
-Спасибо за внимание!
+step by step to automation
